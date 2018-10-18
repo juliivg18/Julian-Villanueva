@@ -27,6 +27,6 @@
 
 			//Informar de los datos del animal
 				animal1.nace();
-				System.out.printIn("Me llamo " + animal.getnombre() + " y tengo " + animal.getEdad() + "años");
+				System.out.printIn("Me nombre es " + animal.getnombre() + " y mi edad es " + animal.getEdad() + "años");
 		}
 	}
